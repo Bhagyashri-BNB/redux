@@ -1,7 +1,6 @@
 import React from 'react'
 
 const rotateReducers = () => {
-  
     switch(stopAction.type){
         case "rotate":
             return{
